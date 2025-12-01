@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "コーリング",
+  "base_artist": "羊文学",
+  "createdAt": "2025-12-01T02:27:51.115085Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウェン・デス・イズ・コーリング",
+      "artist": "Nordic Union",
+      "has_synced": false,
+      "path": "select/01_ウェン・デス・イズ・コーリング_Nordic_Union.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コーリング・ユー",
+      "artist": "ナタリー・コール",
+      "has_synced": false,
+      "path": "select/02_コーリング・ユー_ナタリー・コール.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コーリング",
+      "artist": "Hitsujibungaku",
+      "has_synced": false,
+      "path": "select/03_コーリング_Hitsujibungaku.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ザ・コーリング",
+      "artist": "Misery Index",
+      "has_synced": true,
+      "path": "select/04_ザ・コーリング_Misery_Index.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "コーリング",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/05_コーリング_羊文学.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ワールド・コーリング (Instrumental)",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/06_ワールド・コーリング_(Instrumental)_Jin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ワールド・コーリング",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/07_ワールド・コーリング_じん.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "コーリング",
+      "artist": "ゴスペラーズ",
+      "has_synced": true,
+      "path": "select/08_コーリング_ゴスペラーズ.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "コーリング",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_コーリング_羊文学.txt"
+    }
+  ]
+}
